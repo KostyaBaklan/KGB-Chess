@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/KgbChess/.vs/KgbChess
+/KgbChess/Application/bin
+/KgbChess/Application/obj
+/KgbChess/Engine/bin
+/KgbChess/Engine/obj
+/KgbChess/EvaluationEditor/bin
+/KgbChess/EvaluationEditor/obj
+/KgbChess/StatisticTool/bin
+/KgbChess/StatisticTool/obj/Debug/net6.0
+/KgbChess/StatisticTool/obj
+/KgbChess/TestingTool/obj
+/KgbChess/TestStrategyTool/obj
+/KgbChess/TestViewer/obj
+/KgbChess/Tools/bin
+/KgbChess/Tools/obj
+/KgbChess/Tools.Common/bin
+/KgbChess/Tools.Common/obj
